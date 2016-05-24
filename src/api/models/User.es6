@@ -1,5 +1,5 @@
 /**
- * 订单
+ * 用户
  * Created by libinqi on 2016/4/28.
  */
 module.exports = {
